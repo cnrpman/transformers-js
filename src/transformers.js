@@ -212,3 +212,4 @@ class Seq2SeqLMOutput {
     }
 }
 
+export { AutoModelForSeq2SeqLM }
