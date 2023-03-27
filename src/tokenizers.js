@@ -341,4 +341,4 @@ async function loadTokenizer(url) {
     return Tokenizer.fromConfig(jtokenizer);
 }
 
-export { AutoTokenizer }
+export { AutoTokenizer, Tokenizer }
